@@ -1,4 +1,2 @@
-console.log("version-1");
-console.log("version-2");
-console.log("Version-3 after restore to 2");
-console.log("Version-4");
+console.log("version-1");      
+console.log("Version-5 after restoring from version-1");      
